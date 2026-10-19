@@ -24,9 +24,9 @@ Options:
       --time <WORD>       change only the specified time: "access", "atime", or
                           "use" are equivalent to -a; "modify" or "mtime" are
                           equivalent to -m [possible values: atime, mtime]
-  -V, --version           Print version
+  -V, --version           Print version```
 
-### Листинг команды cat
+## Листинг команды cat
 ```bash
 root@roman-VB:/home/roman/repo/my-second-repo# cat --help
 Concatenate FILE(s), or standard input, to standard output
