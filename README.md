@@ -24,7 +24,8 @@ Options:
       --time <WORD>       change only the specified time: "access", "atime", or
                           "use" are equivalent to -a; "modify" or "mtime" are
                           equivalent to -m [possible values: atime, mtime]
-  -V, --version           Print version```
+  -V, --version           Print version
+```
 
 ## Листинг команды cat
 ```bash
@@ -47,6 +48,7 @@ Options:
   -u                      (ignored)
   -h, --help              Print help
   -V, --version           Print version
+```
 
 ## Листинг команды nano
 ```bash
