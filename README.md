@@ -1,6 +1,7 @@
 # Листинги команд для работы с файлами в Linux
 
 ## Листинг команды touch
+```bash
 root@roman-VB:/home/roman/repo/my-second-repo# touch --help
 Update the access and modification times of each FILE to the current time.
 
