@@ -26,7 +26,7 @@ Options:
                           equivalent to -m [possible values: atime, mtime]
   -V, --version           Print version
 
-## Листинг команды cat
+### Листинг команды cat
 ```bash
 root@roman-VB:/home/roman/repo/my-second-repo# cat --help
 Concatenate FILE(s), or standard input, to standard output
