@@ -696,3 +696,11 @@ Options:
 | ![Восстановление работы утилиты tree](images/repair_tree.png) |
 |:---:|
 | *Рис. 4 Восстановление работы утилиты tree* |
+
+# Листинг выполнения команды visudo
+
+```bash
+root@roman-VB:/home/roman/repo/my-second-repo# visudo -f /etc/sudoers.d/roman-nopasswd
+root@roman-VB:/home/roman/repo/my-second-repo# cat /etc/sudoers.d/roman-nopasswd 
+roman ALL=(ALL:ALL) NOPASSWD:ALL
+```
